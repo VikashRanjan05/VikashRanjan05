@@ -4,7 +4,7 @@
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge]((https://img.shields.io/badge/-VikashRanjan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikash-ranjan-2a874b181/))](https://www.linkedin.com/in/vikash-ranjan-2a874b181/)
+[![Linkedin Badge](https://img.shields.io/badge/-VikashRanjan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikash-ranjan-2a874b181/)](https://www.linkedin.com/in/vikash-ranjan-2a874b181/)
 
 ## ⚡ Technologies
 
